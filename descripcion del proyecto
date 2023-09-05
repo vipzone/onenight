@@ -1,0 +1,17 @@
+Una empresa mediana, un bar, necesita un sistema que por un lado administre los precios de sus productos, tragos, bebidas y hamburguesas, que realice envios y mantenga su e-commerce y que por el otro pueda proporcionar entradas al club. Voy a necesitar una aplicacion que maneje la carga de entradas y productos.
+  
+  Título: Sistema de Gestión "ClubToday"
+    El sistema debe proporcionar los siguientes requisitos funcionales:
+
+Entradas al club:
+Permitir a los clientes comprar entradas al club.
+Mostrar hasta que se agote el stock
+
+Lista de Precios de Productos:
+Mantener una lista de precios actualizada de los productos, incluyendo tragos, bebidas y hamburguesas. 
+Permitir la modificación y actualización de los precios según sea necesario.
+
+Interfaz de Usuario Amigable:
+Proporcionar una interfaz de usuario intuitiva y fácil de usar para que los clientes puedan navegar y utilizar todas las funciones del sistema. Cuenta con una atencion al publico para que el usuario pueda
+  gestionar sus dudas con el soporte.
+  
