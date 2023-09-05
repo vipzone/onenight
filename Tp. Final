@@ -1,1 +1,4 @@
 
+El presente trabajo pretende simular la necesidad de una empresa pequeña, un bar, que necesita, por un lado, organizar las entradas al club y por otro lado llevar un control del stock y precios que se relacione con su sitio de e-commerce (tragos, bebidas, hamburguesas).
+(Nombre y logo simulado con http://namelix.com)
+En este proyecto introductorio, se presenta un diagrama de flujo general, un pseudocódigo que simula la carga de entradas y productos. Además, se teoriza sobre el proceso de gestión del proyecto con las metodologías ágiles trabajadas en el curso, Kanban y Scrum.
